@@ -41,4 +41,4 @@ If you'd like to explore the design or use it as inspiration for your projects, 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/lattofatto.git
+   git clone https://github.com/Indranil102/lattofatto.git
