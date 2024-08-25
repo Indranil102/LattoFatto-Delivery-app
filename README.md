@@ -27,12 +27,12 @@ Below are some previews of the Lattofatto app design:
 )
 
 ### Login/Signup Pages
-![Login/Signup Preview](![Sign in](https://github.com/user-attachments/assets/c57c8700-d99e-4cbd-bc2c-f6fd10fa3615)(![sign up](https://github.com/user-attachments/assets/66cc1a1f-847b-4ab7-ab4a-cfe8974abb22)
+![Login/Signup Preview](https://github.com/user-attachments/assets/c57c8700-d99e-4cbd-bc2c-f6fd10fa3615)(![sign up](https://github.com/user-attachments/assets/66cc1a1f-847b-4ab7-ab4a-cfe8974abb22)
 
 
 
 ### Menu Page
-![Menu Preview](![Menu](https://github.com/user-attachments/assets/d69d60a4-cb09-493d-85ed-10a3f4bfafb6)
+![Menu Preview](https://github.com/user-attachments/assets/d69d60a4-cb09-493d-85ed-10a3f4bfafb6)
 
 
 ## Getting Started
