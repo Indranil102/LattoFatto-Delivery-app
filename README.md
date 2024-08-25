@@ -23,8 +23,8 @@ Lattofatto is a modern and intuitive food delivery app designed in Figma. The de
 Below are some previews of the Lattofatto app design:
 
 ### Homepage
-![Homepage Preview](![brand name](https://github.com/user-attachments/assets/c3d20cea-888f-4d8e-9fa8-68618e656983)
-)
+![Homepage Preview](https://github.com/user-attachments/assets/c3d20cea-888f-4d8e-9fa8-68618e656983)
+
 
 ### Login/Signup Pages
 ![Login/Signup Preview](https://github.com/user-attachments/assets/c57c8700-d99e-4cbd-bc2c-f6fd10fa3615)(![sign up](https://github.com/user-attachments/assets/66cc1a1f-847b-4ab7-ab4a-cfe8974abb22)
